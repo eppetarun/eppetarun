@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/eppetarun/eppetarun/main/profile.jpg" width="160" height="160" style="border-radius: 50%;" alt="Eppe Tarun" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE6CA&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Eppe+Tarun;Full-Stack+%26+AI+Systems+Developer;Building+Production-Ready+Web+%26+Mobile+Apps;B.Tech+Computer+Science+%40+JNTUH" alt="Typing SVG" />
 </p>
 
@@ -18,7 +22,7 @@
 | 📍 **Location** | Hyderabad, Telangana, India (Open to Remote, Hybrid & On-Site Roles) |
 | 💼 **Seeking** | Software Engineer, Full-Stack Developer, AI/ML & Mobile Developer Roles / Internships |
 | ⚡ **Core Strengths** | Clean Architecture, Real-Time Systems, AI/RAG Pipelines, Flutter Cross-Platform |
-| 🚀 **Portfolio & Systems** | **30+ Repositories** | Built production apps across AI, Mobile, and Web |
+| 🚀 **Portfolio & Systems** | **30+ Repositories** | Production apps across Web, Mobile, and AI |
 
 ---
 
@@ -26,12 +30,10 @@
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **🌐 3D Cinematic Portfolio** | Interactive 3D web experience with real-time lighting, shaders, dynamic state management, and fluid animations. | `React` `Three.js` `Vite` `TailwindCSS` | [Live Site](https://enigma.page.gd) • [Code](https://github.com/eppetarun/portfolio) |
-| **🧠 Orliv AI Platform** | Full-stack AI platform integrating PyTorch deep learning models, Flask backend services, and Firebase for real-time inference. | `Python` `Flask` `PyTorch` `Firebase` | [Repository](https://github.com/eppetarun/orliv) |
-| **🌾 Agri-Path Samadhan** | Intelligent agricultural platform offering automated crop diagnostics, advisory systems, and farmer assistance tools. | `Next.js` `React` `AI APIs` `TailwindCSS` | [Repository](https://github.com/eppetarun/agri-path-samadhan) |
-| **🛡️ Network Sniffer Web** | Real-time network security monitoring dashboard with low-level packet capture, protocol dissection, and live traffic analytics. | `Python` `Flask` `Sockets` `Networking` | [Repository](https://github.com/eppetarun/network-sniffer-web) |
-| **📱 Enigma Mobile App** | Modern cross-platform mobile application with reactive state management, offline persistence, and cloud sync. | `Flutter` `Dart` `Firebase` `Android` | [Repository](https://github.com/eppetarun/enigma-app) |
-| **🛒 Ecomars Full-Stack** | Production-ready full-stack eCommerce platform featuring a high-performance React frontend and modular Node.js REST API. | `React` `Node.js` `Express` `Vite` | [Repository](https://github.com/eppetarun/ecomars) |
+| **📸 MyPic** | Automated event photo distribution and image gallery platform with secure database storage. | `PHP` `MySQL` `JavaScript` `Bootstrap` | [🌐 Live Demo](http://eppe.gt.tc) • [💻 Code](https://github.com/eppetarun/mypic) |
+| **📱 Enigma** | Modern cross-platform application with reactive UI, cloud sync, and custom component architecture. | `Flutter` `Dart` `Firebase` `Android` | [🌐 Live Demo](http://enigma.page.gd) • [💻 Code](https://github.com/eppetarun/enigma-app) |
+| **🎓 College Result** | Academic syllabus tracking, departmental grade analysis, and student performance portal for DRK / JNTUH. | `PHP` `MySQL` `Analytics` `HTML5` | [🌐 Live Demo](http://drksyllabus.great-site.net) • [💻 Code](https://github.com/eppetarun/college-result) |
+| **🌐 3D Cinematic Portfolio** | Ultra-cinematic interactive portfolio featuring real-time 3D environments, shaders, and animations. | `React` `Three.js` `Vite` `TailwindCSS` | [🌐 Live Demo](https://enigma.page.gd) • [💻 Code](https://github.com/eppetarun/portfolio) |
 
 ---
 
