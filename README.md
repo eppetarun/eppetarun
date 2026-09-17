@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eppetarun/eppetarun/main/profile.jpg" width="160" height="160" style="border-radius: 50%;" alt="Eppe Tarun" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE6CA&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Eppe+Tarun;Full-Stack+%26+AI+Systems+Developer;Building+Production-Ready+Web+%26+Mobile+Apps;B.Tech+Computer+Science+%40+JNTUH" alt="Typing SVG" />
 </p>
 
